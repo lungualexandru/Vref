@@ -71,6 +71,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HFIGADRM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Vref\Design Rule Check - Vref.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
