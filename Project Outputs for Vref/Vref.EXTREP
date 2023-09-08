@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Vref.GBR   3/22/2023  8:22:42 PM
+Gerber File Extension Report For: Vref.GBR   8/31/2023  2:26:33 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -18,4 +18,6 @@ Layer Extension     Layer Description
 .gbr                Top Solder                              
 .gbr                Mechanical 1                            
 .gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
 ------------------------------------------------------------------------------------------
